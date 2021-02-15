@@ -2,3 +2,4 @@ Charizard
 Pikachu
 Squirtle
 Alakazam
+Ratata
