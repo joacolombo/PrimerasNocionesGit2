@@ -2,3 +2,5 @@ Charizard
 Pikachu
 Squirtle
 Alakazam
+Ratata
+Raichu
